@@ -1,7 +1,5 @@
 ## Hello There 🥷
 
-🔭 I’m currently working on [Pin - Local pipeline project with Docker Golang API](https://github.com/muhammedikinci/pin)
-
 ### Tech Stack 💣 With Repositories
 - [Golang & Mockgen & Goreleaser](https://github.com/muhammedikinci/pin)
 - [Golang & Mysql & Docker](https://github.com/muhammedikinci/scaleapi)
