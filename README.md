@@ -1,6 +1,6 @@
-## Hello There 🥷
+## Hello There
 
-### Tech Stack 💣 With Repositories
+### Tech Stack With Repositories
 - [Golang & Mockgen & Goreleaser](https://github.com/muhammedikinci/pin)
 - [Golang & Mysql & Docker](https://github.com/muhammedikinci/scaleapi)
 - [RabbitMQ & Typescript & MongoDB & Docker & Sinon](https://github.com/muhammedikinci/ts-chat-api)
@@ -20,11 +20,5 @@
 - [Creating Websocket Handshake with Golang from Scratch](https://towardsdev.com/lets-websockets-handshake-with-golang-from-scratch-e91442ea6467)
 - [Using GitLab Private Go Package On Your Local Setup and CI ](https://medium.com/modanisa-engineering/using-gitlab-private-go-package-on-your-local-setup-and-ci-cf4dc34397d4)
 - [Mobile App Acceptance Testing using JavaScript on Local & BrowserStack Environments with WebDriver.IO & Appium ](https://medium.com/modanisa-engineering/mobile-app-acceptance-testing-with-javascript-on-browserstack-with-webdriver-io-appium-50d151d03843)
-
-### Profiles
-- [stackoverflow.com/u/7662325](https://stackoverflow.com/users/7662325/muhammed-ikinci)
-- [medium.com/@muhammedikinci](https://medium.com/@muhammedikinci)
-- [hackerrank.com/muhammedikinci](https://www.hackerrank.com/muhammedikinci)
-- [artstation.com/muhammedikinci](https://www.artstation.com/muhammedikinci)
 
 📫 How to reach me: muhammedikinci@outlook.com
