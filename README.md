@@ -1,8 +1,8 @@
 ## Hello There
 
 ### Tech Stack With Repositories
-- [Golang & Mockgen & Goreleaser](https://github.com/muhammedikinci/pin)
-- [Golang & Mysql & Docker](https://github.com/muhammedikinci/scaleapi)
+- [Golang & Mockgen & Goreleaser & Viper & DockerAPI](https://github.com/muhammedikinci/pin)
+- [Golang & Gorm & Mysql & Docker](https://github.com/muhammedikinci/scaleapi)
 - [RabbitMQ & Typescript & MongoDB & Docker & Sinon](https://github.com/muhammedikinci/ts-chat-api)
 - [Typescript & Puppeteer & CircleCI & Jest](https://github.com/FastnTech/shopcrawler)
 - [Asp.Net Core](https://github.com/muhammedikinci/partner-api)
